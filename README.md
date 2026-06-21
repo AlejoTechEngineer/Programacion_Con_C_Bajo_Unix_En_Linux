@@ -46,6 +46,19 @@ pthread_create(), pthread_join(), pthread_mutex_lock()
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Programacion_Con_C_Bajo_Unix_En_Linux] --> B[Laboratorio No. 2.tar.gz]
+    A --> C[Informe.pdf]
+    B --> D[Gestion de Procesos - fork / exec / wait / kill]
+    B --> E[Manejo de Archivos - open / read / write / close]
+    B --> F[IPC - pipe / mkfifo / shmget / semget]
+    B --> G[Hilos POSIX - pthread_create / pthread_join]
+    D & E & F & G --> H[Compilacion gcc - Ejecucion en Linux]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
