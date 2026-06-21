@@ -1,3 +1,5 @@
+<div align="center">
+
 # Programación en C bajo Unix/Linux
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -7,6 +9,10 @@
 > Programación de sistemas en C bajo entorno Unix/Linux: gestión de procesos, archivos y señales con llamadas al sistema POSIX.
 
 ## Descripción
+
+</div>
+
+---
 
 Laboratorio de programación de sistemas en **C** sobre entorno **Unix/Linux**: uso de llamadas al sistema POSIX para gestión de procesos (`fork`, `exec`, `wait`), manejo de archivos a bajo nivel (`open`, `read`, `write`, `close`), comunicación entre procesos (pipes, señales) y programación concurrente con hilos POSIX (`pthread`).
 
@@ -37,3 +43,12 @@ pthread_create(), pthread_join(), pthread_mutex_lock()
 
 **Asignatura:** Programación bajo Unix · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
